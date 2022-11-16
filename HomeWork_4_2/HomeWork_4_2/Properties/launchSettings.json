@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "Профиль 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\m.milovanov\\source\\repos\\HomeWork_4_2\\SystemCollections.sln"
+    }
+  }
+}
