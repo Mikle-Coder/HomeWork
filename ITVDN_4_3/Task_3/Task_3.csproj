@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Task_4.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Task_4.txt" />
+  </ItemGroup>
+
 </Project>

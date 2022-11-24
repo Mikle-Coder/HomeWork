@@ -1,0 +1,18 @@
+﻿<Window x:Class="Task_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:local="clr-namespace:Task_4"
+        mc:Ignorable="d"
+        Title="Задание 4" Height="179" Width="270"
+        
+        >
+    <Grid>
+        <Label Name="label" Content="Выбери цвет&#xA;      |&#xA;      |&#xA;      |&#xA;     \/" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="92" Width="240" Background="AliceBlue" Foreground="Black" FontSize="12" FontWeight="Bold" FontFamily="Comic Sans MS"/>
+        <Button Name="button" Content="Запомнить цвет" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="150,107,0,0" VerticalAlignment="Top" Width="100" Height="22"/>
+        <xctk:ColorPicker x:Name="colorPicker" HorizontalAlignment="Left" Margin="10,107,0,0" VerticalAlignment="Top" Width="74"/>
+
+    </Grid>
+</Window>
