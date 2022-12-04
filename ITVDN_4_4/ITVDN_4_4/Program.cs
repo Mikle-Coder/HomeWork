@@ -41,9 +41,6 @@ class Program
         Console.WriteLine("\n\n\tПоздравляем с регистрацией!");
         Console.WriteLine($"Ваш логин\t{login}");
         Console.WriteLine($"Ваш парооль\t{password}");
-
-
-        //string inputPassword = Console.ReadLine();
     }
 
 }
