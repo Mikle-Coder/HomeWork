@@ -12,6 +12,7 @@
     <Grid>
         <Label Name="label" Content="Выбери цвет&#xA;      |&#xA;      |&#xA;      |&#xA;     \/" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="92" Width="240" Background="AliceBlue" Foreground="Black" FontSize="12" FontWeight="Bold" FontFamily="Comic Sans MS"/>
         <Button Name="button" Content="Запомнить цвет" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="150,107,0,0" VerticalAlignment="Top" Width="100" Height="22"/>
+        <Button Name="button1" Content="Привет Олег" HorizontalContentAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="22"/>
         <xctk:ColorPicker x:Name="colorPicker" HorizontalAlignment="Left" Margin="10,107,0,0" VerticalAlignment="Top" Width="74"/>
 
     </Grid>
