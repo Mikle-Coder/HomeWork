@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditionTask", "ITVDN_4_4\AdditionTask.csproj", "{0DA58FC7-64C4-4DC6-8D8D-3AA5F5C1F0B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdditionTask", "ITVDN_4_4\AdditionTask.csproj", "{0DA58FC7-64C4-4DC6-8D8D-3AA5F5C1F0B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_2", "Task_2\Task_2.csproj", "{7679FB6D-3001-4836-85D0-FA621AE25E1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{0DA58FC7-64C4-4DC6-8D8D-3AA5F5C1F0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0DA58FC7-64C4-4DC6-8D8D-3AA5F5C1F0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0DA58FC7-64C4-4DC6-8D8D-3AA5F5C1F0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7679FB6D-3001-4836-85D0-FA621AE25E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7679FB6D-3001-4836-85D0-FA621AE25E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7679FB6D-3001-4836-85D0-FA621AE25E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7679FB6D-3001-4836-85D0-FA621AE25E1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
