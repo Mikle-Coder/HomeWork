@@ -30,7 +30,6 @@ public class Task_2
 
 }
 
-
 public class SerializableClass
 {
     public int Id { get; set; }

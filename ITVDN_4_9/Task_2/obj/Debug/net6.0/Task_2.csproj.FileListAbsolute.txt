@@ -1,0 +1,15 @@
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\bin\Debug\net6.0\Task_2.exe
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\bin\Debug\net6.0\Task_2.deps.json
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\bin\Debug\net6.0\Task_2.runtimeconfig.json
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\bin\Debug\net6.0\Task_2.dll
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\bin\Debug\net6.0\Task_2.pdb
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\net6.0\Task_2.csproj.AssemblyReference.cache
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\net6.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfoInputs.cache
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfo.cs
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\net6.0\Task_2.csproj.CoreCompileInputs.cache
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\net6.0\Task_2.dll
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\net6.0\refint\Task_2.dll
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\net6.0\Task_2.pdb
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\net6.0\Task_2.genruntimeconfig.cache
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\net6.0\ref\Task_2.dll

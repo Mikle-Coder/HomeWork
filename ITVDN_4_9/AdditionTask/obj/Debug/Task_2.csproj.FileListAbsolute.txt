@@ -1,0 +1,8 @@
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\bin\Debug\Task_2.exe.config
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\bin\Debug\Task_2.exe
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\bin\Debug\Task_2.pdb
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\Task_2.csproj.AssemblyReference.cache
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\Task_2.csproj.SuggestedBindingRedirects.cache
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\Task_2.exe
+D:\Хранилище\source\Repos\ITVDN_4_9\Task_2\obj\Debug\Task_2.pdb
