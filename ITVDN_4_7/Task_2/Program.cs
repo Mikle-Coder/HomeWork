@@ -26,6 +26,6 @@ class Program
 
         instance.ObsoleteMessage();
 
-        instance.ObsoleteError();
+        // instance.ObsoleteError();
     }
 }

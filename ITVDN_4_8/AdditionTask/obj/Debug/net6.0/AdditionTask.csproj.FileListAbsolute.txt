@@ -1,0 +1,17 @@
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\bin\Debug\net6.0\AdditionTask.exe
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\bin\Debug\net6.0\AdditionTask.deps.json
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\bin\Debug\net6.0\AdditionTask.runtimeconfig.json
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\bin\Debug\net6.0\AdditionTask.dll
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\bin\Debug\net6.0\AdditionTask.pdb
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\bin\Debug\net6.0\SoapFormatter.dll
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\obj\Debug\net6.0\AdditionTask.csproj.AssemblyReference.cache
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\obj\Debug\net6.0\AdditionTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\obj\Debug\net6.0\AdditionTask.AssemblyInfoInputs.cache
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\obj\Debug\net6.0\AdditionTask.AssemblyInfo.cs
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\obj\Debug\net6.0\AdditionTask.csproj.CoreCompileInputs.cache
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\obj\Debug\net6.0\AdditionTask.csproj.CopyComplete
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\obj\Debug\net6.0\AdditionTask.dll
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\obj\Debug\net6.0\refint\AdditionTask.dll
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\obj\Debug\net6.0\AdditionTask.pdb
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\obj\Debug\net6.0\AdditionTask.genruntimeconfig.cache
+D:\Хранилище\source\Repos\ITVDN_4_8\AdditionTask\obj\Debug\net6.0\ref\AdditionTask.dll

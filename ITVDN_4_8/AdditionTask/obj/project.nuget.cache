@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pWfDZ0F0TohcndiPOM8lSSDa9QqJD8gZFtfaDbIZATxDf4caCex4zrPcHpklINdML8fHJ9bfy+FMiFZV54bOig==",
+  "success": true,
+  "projectFilePath": "D:\\Хранилище\\source\\Repos\\ITVDN_4_8\\AdditionTask\\AdditionTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mikle\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
