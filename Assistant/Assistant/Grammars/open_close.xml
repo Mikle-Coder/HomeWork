@@ -1,0 +1,27 @@
+﻿<grammar version="1.0" xml:lang="ru-RU" root="open_close"
+ xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics-ms/1.0">
+
+	<rule id="open_close">
+		<item>Айси</item>
+		<ruleref uri="#openORclose" />
+		<ruleref uri="#programs" />
+	</rule>
+	
+	<rule id="openORclose">
+		<one-of>
+			<item>открой<tag>$ = "open"</tag></item>
+			<item>закрой<tag>$ = "close"</tag></item>
+		</one-of>
+	</rule>
+	
+	<rule id="programs">
+		<one-of>
+			<item>браузер<tag>$ = "browser"</tag></item>
+			<item>студию<tag>$ = "visual-studio"</tag></item>
+			<item>блокнот<tag>$ = "notepad"</tag></item>
+			<item>консоль<tag>$ = "CMD.exe"</tag></item>
+			<item>коммандную строку<tag>$ = "CMD.exe"</tag></item>
+		</one-of>
+	</rule>
+
+</grammar>

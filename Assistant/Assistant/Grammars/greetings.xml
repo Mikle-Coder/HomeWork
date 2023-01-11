@@ -1,0 +1,15 @@
+<grammar version="1.0" xml:lang="ru-RU" root="greetings"
+ xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics-ms/1.0">
+
+	<rule id="greetings">
+		<ruleref uri="#hello" />
+	</rule>
+
+	<rule id="hello">
+		<one-of>
+			<item>Привет Айси<tag>$ = "hello"</tag></item>
+			<item>Айси Привет<tag>$ = "hello"</tag></item>
+		</one-of>
+	</rule>
+
+</grammar>
